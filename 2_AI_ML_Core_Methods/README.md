@@ -1,4 +1,4 @@
-# AI & ML Core Foundations
+# AI & ML Core Methods
 
 This folder covers core Machine Learning algorithms, evaluation metrics, clustering, dimensionality reduction, semi-supervised learning, and interpretability.
 

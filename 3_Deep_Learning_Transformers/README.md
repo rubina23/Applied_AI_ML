@@ -4,7 +4,7 @@ This folder includes deep learning fundamentals, optimization, regularization, t
 
 ## Subfolders
 
-### Neural_Network_Foundations
+### Neural*Network_Foundations*&\_Optimization
 
 - Perceptron, MLP, forward pass, backprop
 - Gradient descent, optimizers, learning rate schedules
