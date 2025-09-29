@@ -1,0 +1,62 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (large datasets, CSV, Excel, etc.)
+*.csv
+*.tsv
+*.xlsx
+*.h5
+*.hdf5
+*.parquet
+
+# Model checkpoints & weights
+*.pt
+*.pth
+*.ckpt
+*.joblib
+*.sav
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE-specific
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.spyderproject
+.spyproject
+
+# Config / secrets
+*.env
+config.json
+/data/
+
+# PyTorch Lightning logs/checkpoints
+lightning_logs/
+
+# TensorBoard logs
+runs/
+
+# Editor swap/temp files
+*.swp
+*~
+
+# Backup files
+*.bak
+*.backup
+
